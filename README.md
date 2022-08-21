@@ -1,6 +1,6 @@
 # FireDetection
 Fire Detection System for GDG hackathon 2022
-Using Python models such as Tensorflow, numpy, ImageDetection among others.
+Using Python libraries such as Tensorflow, numpy, ImageDetection among others.
 
 Fire Detection Model was made using Machine Learning of over 100 files and 5000 steps to maximize accuracy.
 The model can detect Major Fires upto 60% accuracy and Minor Fires upto 55% accuracy.
