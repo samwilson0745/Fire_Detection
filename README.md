@@ -1,4 +1,3 @@
-# Fire_Detection
 # FireDetection
 Fire Detection System for GDG hackathon 2022
 Using Python models such as Tensorflow, numpy, ImageDetection among others.
