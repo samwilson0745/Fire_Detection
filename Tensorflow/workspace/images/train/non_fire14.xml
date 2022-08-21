@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allImage</folder>
+	<filename>non_fire14.png</filename>
+	<path>C:\work\RealTimeObjectDetection\Tensorflow\workspace\images\allImage\non_fire14.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Notfire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>282</ymin>
+			<xmax>3429</xmax>
+			<ymax>2249</ymax>
+		</bndbox>
+	</object>
+</annotation>

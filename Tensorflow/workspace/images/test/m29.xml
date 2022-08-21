@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Minor_30</folder>
+	<filename>m29.png</filename>
+	<path>C:\Users\ASUS\Desktop\Minor_30\m29.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Minor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>115</ymin>
+			<xmax>509</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

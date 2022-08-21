@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Major</folder>
+	<filename>fire.22.png</filename>
+	<path>C:\Users\ASUS\Desktop\Major\fire.22.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Major</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>11</ymin>
+			<xmax>747</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
